@@ -1,1 +1,1 @@
-# German News Classification App Deployment with Heroku
+News Classification App Deployment with Heroku
